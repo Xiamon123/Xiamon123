@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Somya Yadav</h1>
+<h1 align="center">Hi ![ProperGIF](https://github.com/Xiamon123/Xiamon123/assets/105907009/c1a600ee-a7f5-4d64-8abc-0a761b182cd5)
+, I'm Somya Yadav</h1>
 <h3 align="center">Technology Enthusiast</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/Xiamon123](https://github.com/Xiamon123)
